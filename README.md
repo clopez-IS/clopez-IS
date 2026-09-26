@@ -13,3 +13,27 @@ Currently, I'm building practical projects that combine business analysis with t
 * Exploring how **technology, business, and digital transformation** intersect
 * Preparing for graduate study in **Information Systems**
 * Building a portfolio of projects that demonstrate **business and technology problem-solving**
+
+## Skills & Tools
+
+**Data & Analysis**
+
+* Microsoft Excel
+* Data cleaning and organization
+* Pivot tables and data visualization
+* Exploratory data analysis
+* Research and comparative analysis
+
+**Technology**
+
+* GitHub
+* AI-assisted workflows
+* Information Systems
+* Digital transformation
+
+**Business**
+
+* Business analysis
+* Process analysis
+* Technology management
+* International business
