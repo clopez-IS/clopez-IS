@@ -50,5 +50,5 @@ An exploratory comparative analysis of selected South Korean technology, investm
 
 The project includes a structured 10-project dataset, Excel-based analysis and pivot tables, visualizations, source documentation, and an exploratory comparative methodology.
 
-[View Project →](https://github.com/Cyoi5/korean-technology-investment-abroad)
+[View Project →](https://github.com/clopez-IS/korean-technology-investment-abroad)
 
