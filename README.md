@@ -37,3 +37,18 @@ Currently, I'm building practical projects that combine business analysis with t
 * Process analysis
 * Technology management
 * International business
+
+## Featured Projects
+
+### Korean Technology, Investment & Development Cooperation Abroad
+
+An exploratory comparative analysis of selected South Korean technology, investment, and development-cooperation projects across **El Salvador, Mexico, and the United States**.
+
+**Focus:** Information Systems · Data Analysis · Technology Transfer · Foreign Direct Investment · International Development
+
+**Tools:** Microsoft Excel · GitHub · Data Visualization · Desk Research
+
+The project includes a structured 10-project dataset, Excel-based analysis and pivot tables, visualizations, source documentation, and an exploratory comparative methodology.
+
+[View Project →](https://github.com/Cyoi5/korean-technology-investment-abroad)
+
